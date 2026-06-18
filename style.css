@@ -1,18 +1,17 @@
 *{
     text-align: center;
-    background-color: rgb(26, 23, 23);
-    color: rgb(114, 16, 16);
-    font-size: 60px;
+    background-color: rgb(14, 48, 14);
+    color: rgb(255, 242, 58);
+    font-size: 100%;
 }
 
 p{
-    font-size: 20px;
     text-decoration: overline;
 }
 
 #opc{
     border-style:dotted;
-    padding: 50px;
-    margin: 10px;
-    box-shadow: 3px 3px 10px rgb(192, 120, 11);
+    padding: 5%;
+    margin: 3%;
+    box-shadow: 3px 3px 10px rgb(11, 192, 86);
 }
